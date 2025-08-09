@@ -11,7 +11,7 @@ Want to be a speaker? Have an idea for building our community? Let us know! Chec
 
 Talks:
 
-1. Concurrency Testing in Go: Exploring testing/synctest in Go 1.24 - Rafael Lopes (Form3)
+1. Concurrency Testing in Go: Exploring testing/synctest in Go 1.24 ([demo](https://github.com/rafarlopes/go124-synctest)) - Rafael Lopes (Form3)
 2. Accelerating Go Development with Claude Code: A Pragmatic Approacch ([code & slides](
 https://github.com/wojciech12/template_project_go/tree/master)) - Wojciech Barczynski (Unoperate)
 3. [Intro](https://docs.google.com/presentation/d/1-jWhxtugdtYSjU206XDI62LrLB0vymjogBLeNbW_yiA/edit?usp=sharing)
