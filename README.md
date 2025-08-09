@@ -7,6 +7,17 @@ Want to be a speaker? Have an idea for building our community? Let us know! Chec
 <img src=".organizers/logo/gofersyrenka.png" alt="gofersyrenka" width="150p"/><br />
 <small>Logo by <i>mlemkat</i></small>
 
+## Golang Warsaw #64 (Aug 7, 2025)
+
+Talks:
+
+1. Concurrency Testing in Go: Exploring testing/synctest in Go 1.24 - Rafael Lopes (Form3)
+2. Accelerating Go Development with Claude Code: A Pragmatic Approacch ([code & slides](
+https://github.com/wojciech12/template_project_go/tree/master)) - Wojciech Barczynski (Unoperate)
+3. [Intro](https://docs.google.com/presentation/d/1-jWhxtugdtYSjU206XDI62LrLB0vymjogBLeNbW_yiA/edit?usp=sharing)
+
+Meetup [#64](https://www.meetup.com/ru-RU/golang-warsaw/events/310133725/)
+
 ## Golang Warsaw #63 (July 23, 2025)
 
 Talks:
