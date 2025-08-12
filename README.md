@@ -12,11 +12,10 @@ Want to be a speaker? Have an idea for building our community? Let us know! Chec
 Talks:
 
 1. Concurrency Testing in Go: Exploring testing/synctest in Go 1.24 ([demo](https://github.com/rafarlopes/go124-synctest)) - Rafael Lopes (Form3)
-2. Accelerating Go Development with Claude Code: A Pragmatic Approacch ([code & slides](
-https://github.com/wojciech12/template_project_go/tree/master)) - Wojciech Barczynski (Unoperate)
+2. Accelerating Go Development with Claude Code: A Pragmatic Approach ([code & slides](https://github.com/wojciech12/template_project_go/tree/master)) - Wojciech Barczynski (Unoperate)
 3. [Intro](https://docs.google.com/presentation/d/1-jWhxtugdtYSjU206XDI62LrLB0vymjogBLeNbW_yiA/edit?usp=sharing)
 
-Meetup [#64](https://www.meetup.com/ru-RU/golang-warsaw/events/310133725/)
+Meetup [#64](https://www.meetup.com/ru-RU/golang-warsaw/events/310133725/) ([LinkedIn](https://www.linkedin.com/posts/golang-warsaw-meetup_golang-golangwarsaw-golangmeetup-activity-7361176411404910592-QV1o))
 
 ## Golang Warsaw #63 (July 23, 2025)
 
@@ -165,7 +164,6 @@ Talks:
 
 Meetup.com: [#50](https://www.meetup.com/golang-warsaw/events/290964890/) ([LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7020496325284667392))
 
-
 ## Golang Warsaw #49 (Nov 15, 2022)
 
 Talks:
@@ -222,7 +220,7 @@ Meetup.com: [#45](https://www.meetup.com/Golang-Warsaw/events/276369330/) ([Gola
 
 Talks ([recording](https://www.youtube.com/channel/UCGttUF2KmcTU2fwH8wJ5srA/videos)):
 
-1. Creating Bencode serialiser and deserialiser in Go, good patterns, optimisation and testing. Also API design! ([slides](https://speakerdeck.com/olegkovalov/bencode-serializer-and-deserializer-in-go)) -  Oleg Kovalov [GogoApps]
+1. Creating Bencode serialiser and deserialiser in Go, good patterns, optimisation and testing. Also API design! ([slides](https://speakerdeck.com/olegkovalov/bencode-serializer-and-deserializer-in-go)) - Oleg Kovalov [GogoApps]
 
 2. A quick introduction to tensor for machine learning in Go with [gorgonia/tensor](https://github.com/gorgonia/tensor) - Xuanyi Chew [[github.com/chewxy](https://github.com/chewxy)]
 
@@ -344,7 +342,7 @@ Talks ([recording](https://zoom.us/rec/play/6JJ-JL-tpzs3G9bA5gSDV_R9W9XofKys1Cgc
 
 1. [My open source projects and journey so far](https://drive.google.com/open?id=1zU2UNvQcNmuluRxKOwpGy7Ll1WDoPI9H) (OS projects: [octosql](https://github.com/cube2222/octosql) and [jql](https://github.com/cube2222/jql)) - Jakub Martin
 
-2. [Building GraphQL severs with gqlgen](./2020/2020_34_Meetup/Building_GraphQL_servers_in_Go.pdf) ([present slides](https://github.com/fwojciec/warsaw-go-meetup-presentation), [example app src](https://github.com/fwojciec/gqlmeetup)) -  Filip Wojciechowski
+2. [Building GraphQL severs with gqlgen](./2020/2020_34_Meetup/Building_GraphQL_servers_in_Go.pdf) ([present slides](https://github.com/fwojciec/warsaw-go-meetup-presentation), [example app src](https://github.com/fwojciec/gqlmeetup)) - Filip Wojciechowski
 
 3. [Intro](./2020/2020_34_Meetup/Intro/index.pdf) ([html/revealjs](./2020/2020_34_Meetup/Intro))
 
@@ -356,7 +354,7 @@ Talks ([recording](https://www.youtube.com/watch?v=6gMvRV6sez8)):
 
 1.  [Adding policies to your Go apps using Open Policy Agent](./2020/2020_33_Meetup/adding_policies_to_your_apps.pdf) - Marcin Wyszyński
 
-2. [Server-Sent Events for Go](https://speakerdeck.com/olegkovalov/server-sent-events-in-go) - Oleg Kovalov [github:@cristaloleg]
+2.  [Server-Sent Events for Go](https://speakerdeck.com/olegkovalov/server-sent-events-in-go) - Oleg Kovalov [github:@cristaloleg]
 
 Meetup.com: [#33](https://www.meetup.com/Golang-Warsaw/events/268449665/) ([LinkedIn](https://www.linkedin.com/posts/golang-warsaw-meetup_golang-warsaw-33-by-gogoapps-hypatos-activity-6636251861831692288-d2x7))
 
@@ -364,11 +362,11 @@ Meetup.com: [#33](https://www.meetup.com/Golang-Warsaw/events/268449665/) ([Link
 
 Talks:
 
-1.  [A **bit** faster logging](./2020/2020_32_Meetup/a-bit-faster-logging-hacking-logging-on-GKE.pdf) -  Paweł Pierścionek [Cludo]
+1.  [A **bit** faster logging](./2020/2020_32_Meetup/a-bit-faster-logging-hacking-logging-on-GKE.pdf) - Paweł Pierścionek [Cludo]
 
-2. [Accessing Custom Kubernetes Resources from Golang](https://github.com/danielpacak/k8s-security-crds/blob/master/docs/index.pdf) ([live-coding source code](https://github.com/danielpacak/k8s-security-crds)) - Daniel Pacak [Aqua Security]
+2.  [Accessing Custom Kubernetes Resources from Golang](https://github.com/danielpacak/k8s-security-crds/blob/master/docs/index.pdf) ([live-coding source code](https://github.com/danielpacak/k8s-security-crds)) - Daniel Pacak [Aqua Security]
 
-0. [Intro](./2020/2020_32_Meetup/intro.pdf) ([pptx](./2020/2020_32_Meetup/intro.pptx))
+3.  [Intro](./2020/2020_32_Meetup/intro.pdf) ([pptx](./2020/2020_32_Meetup/intro.pptx))
 
 Meetup.com: [#32](https://www.meetup.com/Golang-Warsaw/events/267210686/) ([LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6620012814612381696))
 
@@ -378,9 +376,9 @@ Talks:
 
 1.  [Konichiwa Golang Chan](/2019/2019_31_Meetup/Channels_Tomasz_Grodzki) ([recording](https://www.youtube.com/watch?v=AS9w-pc_3us)) - Tomasz Grodzki [[AlphaSOC](https://alphasoc.com/)]
 
-2. [Tales from Event Sourcing Pastures](https://flowdev.github.io/static/present/2019/event-sourcing/present.html) ([src](https://github.com/flowdev/present-event-sourcing),[recording](https://www.youtube.com/watch?v=ACNYhoZrZEs)) - Ole Bulbuk [co-organizer [Berlin Golang Meetup](https://www.meetup.com/golang-users-berlin/)]
+2.  [Tales from Event Sourcing Pastures](https://flowdev.github.io/static/present/2019/event-sourcing/present.html) ([src](https://github.com/flowdev/present-event-sourcing),[recording](https://www.youtube.com/watch?v=ACNYhoZrZEs)) - Ole Bulbuk [co-organizer [Berlin Golang Meetup](https://www.meetup.com/golang-users-berlin/)]
 
-0. [Intro](/2019/2019_31_Meetup/Intro_GoTurn10/index.pdf) ([html/revealjs](/2019/2019_31_Meetup/Intro_GoTurn10))
+3.  [Intro](/2019/2019_31_Meetup/Intro_GoTurn10/index.pdf) ([html/revealjs](/2019/2019_31_Meetup/Intro_GoTurn10))
 
 Meetup.com: [#31](https://www.meetup.com/Golang-Warsaw/events/266338843/)
 
@@ -392,7 +390,7 @@ Talks:
 
 2. [How we develop in Golang, release, and test kubectl who-can plugin](/2019/2019_30_Meetup/Develop_and_release_kubectl_who-can_plugin.pdf) ([pptx](/2019/2019_30_Meetup/Develop_and_release_kubectl_who-can_plugin.pptx)) - Daniel Pacak [Aqua Security]
 
-0. [Intro](/2019/2019_30_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_30_Meetup/Intro))
+3. [Intro](/2019/2019_30_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_30_Meetup/Intro))
 
 Meetup.com: [#30](https://www.meetup.com/Golang-Warsaw/events/265791707/)
 
@@ -404,7 +402,7 @@ Talks:
 
 2. Fishbowl Golang Conversation v2
 
-0. [Intro](/2019/2019_29_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_29_Meetup/Intro))
+3. [Intro](/2019/2019_29_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_29_Meetup/Intro))
 
 Meetup.com: [#29](https://www.meetup.com/Golang-Warsaw/events/264719650/)
 
@@ -414,7 +412,7 @@ Talks:
 
 1. [SSH like a boss ](https://github.com/mmatczuk/talks/tree/master/ssh) - Michał Matczuk [ScyllaDB]
 2. [Golang and IoT](/2019/2019_28_Meetup/Golang_and_IoT_Stas_Arsoba.pdf) - Stanislav Arsoba [Itransition]
-0. [Intro](/2019/2019_28_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_28_Meetup/Intro))
+3. [Intro](/2019/2019_28_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_28_Meetup/Intro))
 
 Meetup.com: [#28](https://www.meetup.com/Golang-Warsaw/events/263969597/)
 
@@ -452,7 +450,7 @@ Talks:
 
 3. Go-perftuner ([slides](https://speakerdeck.com/olegkovalov/go-perftuner)) - Oleg Kovalov [[github:@cristaloleg](https://github.com/cristaloleg)]
 
-0. [Intro](/2019/2019_25_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_25_Meetup/Intro))
+4. [Intro](/2019/2019_25_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_25_Meetup/Intro))
 
 Meetup.com: [#25](https://www.meetup.com/Golang-Warsaw/events/260282299/)
 
@@ -472,7 +470,7 @@ Talks:
 
 2. Observability: Logging ([slides and demo](https://github.com/wojciech12/talk_observability_logging)) [PL] - Wojciech Barczyński [Hyaptos.ai]
 
-0. [Intro](/2019/2019_24_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_24_Meetup/Intro))
+3. [Intro](/2019/2019_24_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_24_Meetup/Intro))
 
 Meetup.com: [#24](https://www.meetup.com/Golang-Warsaw/events/259234625/)
 
@@ -482,9 +480,9 @@ Talks:
 
 1.  Reflection Dark Arts ([slides](https://docs.google.com/presentation/d/1OCwIPVffnKsFWuIW-jH2EpihQwODGH7ljsTSoSo14Qw/edit?usp=sharing), [slides pdf](/2019/2019_23_Meetup/Reflection_Dark_Arts/Reflection_Dark_Arts.pdf)) - Rafał Jęczalik [ScyllaDB]
 
-2. How to monitor your Golang App with Prometheus ([slides](https://github.com/wojciech12/talk_monitoring_with_prometheus/tree/master/slides_go), [demo](https://github.com/wojciech12/talk_monitoring_with_prometheus)) - Wojciech Barczyński [Hypatos.ai]
+2.  How to monitor your Golang App with Prometheus ([slides](https://github.com/wojciech12/talk_monitoring_with_prometheus/tree/master/slides_go), [demo](https://github.com/wojciech12/talk_monitoring_with_prometheus)) - Wojciech Barczyński [Hypatos.ai]
 
-0. [Intro](/2019/2019_23_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_23_Meetup/Intro))
+3.  [Intro](/2019/2019_23_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_23_Meetup/Intro))
 
 Meetup.com: [#23](https://www.meetup.com/Golang-Warsaw/events/257705831/)
 
@@ -494,12 +492,11 @@ Talks:
 
 1. Reflection in Go is not for you. Is it? ([slides](https://github.com/mmatczuk/talks/blob/master/reflection/reflection.slide), [code](https://github.com/mmatczuk/talks/blob/master/reflection)) - Michał Matczuk [ScyllaDB]
 
-2. Dependency Injection in action with google/wire, let’s Go! ([slides](https://github.com/grumpy-programmer/golang-warsaw-22/blob/master/docs/golang-warsaw-22.pdf
-), [src code](https://github.com/grumpy-programmer/golang-warsaw-22)) - Dominik Pruszyński [BlueSoft]
+2. Dependency Injection in action with google/wire, let’s Go! ([slides](https://github.com/grumpy-programmer/golang-warsaw-22/blob/master/docs/golang-warsaw-22.pdf), [src code](https://github.com/grumpy-programmer/golang-warsaw-22)) - Dominik Pruszyński [BlueSoft]
 
 3. [Go-fuzz or new unit testing](https://github.com/cristaloleg/talks/blob/master/2019/golang-warsaw-22/Go-fuzz.pdf) - Oleg Kovalov [[github:@cristaloleg](https://github.com/cristaloleg)]
 
-0. [Intro](/2019/2019_22_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_22_Meetup/Intro))
+4. [Intro](/2019/2019_22_Meetup/Intro/index.pdf) ([html/revealjs](/2019/2019_22_Meetup/Intro))
 
 Meetup.com: [#22](https://www.meetup.com/Golang-Warsaw/events/257562446/)
 
@@ -519,7 +516,7 @@ Talks:
 
 2. Serverless in Golang, a live demo with [serverless](https://serverless.com/) and its [aws-go-dep](https://github.com/serverless/serverless/tree/master/lib/plugins/create/templates/aws-go-dep) for AWS Lambda<br />Bartosz Bonisławski [Hypatos.ai]
 
-0. [Intro](/2018/2018_21_Meetup/Intro/index.pdf) ([html/revealjs](/2018/2018_21_Meetup/Intro))
+3. [Intro](/2018/2018_21_Meetup/Intro/index.pdf) ([html/revealjs](/2018/2018_21_Meetup/Intro))
 
 Meetup.com: [#21](https://www.meetup.com/Golang-Warsaw/events/256566020/)
 
@@ -533,7 +530,7 @@ Talks:
 
 3. Zero-downtime deployments for your golang service with k8s ([slides](https://www.slideshare.net/WojciechBarczyski/zero-deployment-of-microservices-with-kubernetes), [demos and source code](https://github.com/wojciech12/talk_zero_downtime_deployment_with_kubernetes)) - Wojciech Barczynski
 
-0. [Intro](/2018/2018_20_Meetup/Intro/index.pdf) ([html/revealjs](/2018/2018_20_Meetup/Intro))
+4. [Intro](/2018/2018_20_Meetup/Intro/index.pdf) ([html/revealjs](/2018/2018_20_Meetup/Intro))
 
 Meetup.com: [#20](https://www.meetup.com/Golang-Warsaw/events/255260613/)
 
@@ -547,10 +544,10 @@ Talks:
 
 3. [Go-critic](https://github.com/go-critic/go-critic) - Oleg Kovalov [[github:@cristaloleg](https://github.com/cristaloleg)]
 
-0. [Intro](/2018/2018_19_Meetup/Intro/index.pdf) ([html/revealjs](/2018/2018_19_Meetup/Intro))
+4. [Intro](/2018/2018_19_Meetup/Intro/index.pdf) ([html/revealjs](/2018/2018_19_Meetup/Intro))
 
 Meetup.com: [#19](https://www.meetup.com/Golang-Warsaw/events/254200354/)
 
 ## Before
 
-The first meetup was held on December 8, 2014 - [#1](www.meetup.com/golang-warsaw/events/216150702/)
+The first meetup was held on December 8, 2014 - [#1](https://www.meetup.com/golang-warsaw/events/216150702/)
