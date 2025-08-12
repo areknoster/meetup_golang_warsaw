@@ -1,4 +1,3 @@
-
 # GEMINI.md - Communication Templates for Golang Warsaw Meetup
 
 This file contains templates for communication with the Golang Warsaw meetup community. The tone is engineer-to-engineer.
@@ -21,10 +20,10 @@ This month, we're diving into:
 
 **Agenda:**
 
-*   **[TALK_1_TIME] - [TALK_1_TITLE]** by [SPEAKER_1_NAME]
-    *   *Abstract:* [BRIEF_DESCRIPTION_OF_TALK_1]
-*   **[TALK_2_TIME] - [TALK_2_TITLE]** by [SPEAKER_2_NAME]
-    *   *Abstract:* [BRIEF_DESCRIPTION_OF_TALK_2]
+- **[TALK_1_TIME] - [TALK_1_TITLE]** by [SPEAKER_1_NAME]
+  - _Abstract:_ [BRIEF_DESCRIPTION_OF_TALK_1]
+- **[TALK_2_TIME] - [TALK_2_TITLE]** by [SPEAKER_2_NAME]
+  - _Abstract:_ [BRIEF_DESCRIPTION_OF_TALK_2]
 
 **(Optional) Lightning Talks:**
 
@@ -55,17 +54,17 @@ Thanks to everyone who joined us for Golang Warsaw #[MEETUP_NUMBER]. We had a gr
 
 For those who couldn't make it or want to review the presentations, here are the slides:
 
-*   **"[TALK_1_TITLE]" by [SPEAKER_1_NAME]:** [LINK_TO_SLIDES_1]
-*   **"[TALK_2_TITLE]" by [SPEAKER_2_NAME]:** [LINK_TO_SLIDES_2]
+- **"[TALK_1_TITLE]" by [SPEAKER_1_NAME]:** [LINK_TO_SLIDES_1]
+- **"[TALK_2_TITLE]" by [SPEAKER_2_NAME]:** [LINK_TO_SLIDES_2]
 
 **(Optional) Key Takeaways / Discussion Points:**
 
-*   [Interesting point or question from talk 1]
-*   [Interesting point or question from talk 2]
+- [Interesting point or question from talk 1]
+- [Interesting point or question from talk 2]
 
 **Community Announcements:**
 
-*   [Any community news, job postings, etc.]
+- [Any community news, job postings, etc.]
 
 **Get Involved:**
 
@@ -75,3 +74,20 @@ Stay tuned for the announcement of our next event.
 
 Cheers,
 The Golang Warsaw Organizers
+
+---
+
+## Thank You Post (LinkedIn)
+
+This workflow outlines the process for creating a LinkedIn "Thank You" post after a meetup.
+
+1.  **Initiate the process:** Start by referencing the `@PLAN_LI_POST.md` file, which contains the core information about the event.
+2.  **Gather details:** Fetch information from the event page (e.g., Meetup.com) and any other relevant links provided in the plan.
+3.  **Summarize talks:** Create a concise summary for each talk, highlighting the key takeaways.
+4.  **Draft the post:** Write a draft of the LinkedIn post.
+    - Mention the speakers and their topics.
+    - Thank the event partners and any other communities involved.
+    - Use the `LI_POST_EXAMPLE.md` file as a template for structure and tone.
+    - Save the draft to a file like `LI_POST.md`.
+5.  **Review and refine:** Collaborate with the user to refine the message, making adjustments as needed.
+6.  **Update planning document:** After finalizing the message, update the `@.PLAN_LI_POST.md` file with the final talk summaries for future reference.
